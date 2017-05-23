@@ -1,10 +1,10 @@
+
 .stage {
 background: white;
-  width: 100%;
-  height:100vh;
+  width: 1000px;
+  height:1000px;
   /* weirdness happens when edges hit, also consider hiding overflow */
   padding: 30px;
-  
   -webkit-filter: contrast(20);
   filter: contrast(20);
 }
