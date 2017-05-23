@@ -1,8 +1,8 @@
 
 .stage {
 background: white;
-  width: 1000px;
-  height:1000px;
+  width: 500pzpx;
+  height: 500px;
   /* weirdness happens when edges hit, also consider hiding overflow */
   padding: 30px;
   -webkit-filter: contrast(20);
@@ -19,7 +19,6 @@ background: white;
   padding: 4%;
   -webkit-transform: translate(0px, 0px);
           transform: translate(0px, 0px);
-          background: red;
    -webkit-filter: blur(15px);
   filter: blur(15px);
 }
