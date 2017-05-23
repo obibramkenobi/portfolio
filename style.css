@@ -1,0 +1,72 @@
+body, html{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+    background-color:#BCD752;
+    margin: 0px;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+        }
+
+#bodymovin{
+
+    width:100%;
+    display:block;
+    overflow: hidden;
+    transform: translate3d(0,0,0);
+    margin: auto;
+    opacity: 1;
+        }
+
+.botas_loop_3,.botas_loop_2{
+    display:none
+        }
+
+.firsthalf-bg {
+	background-color: #FFF889;
+	height: 5%;
+	width: 100%;
+}
+
+#myBtn {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	height: 5%;
+	color: white; 
+    background-color: #60A3B5; 
+    border: 2px solid #60A3B5;
+    -webkit-transition-duration: 0.2s; /* Safari */
+    transition-duration: 0.2s;
+	padding: 10px 20px ;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    left: 2%;
+    top: 0%;
+    font-size: 16px;
+}
+
+
+#myBtn:hover {
+	border: 2px solid #60A3B5;
+    background-color: #FFF889;
+    color: #60A3B5;
+    cursor: pointer;
+}
+#myBtn:focus {outline:0;}
+
+a {
+	 text-decoration: none;
+	 color: #60A3B5;
+	 margin: 2px;
+}
+
+a:hover {
+   color: #282828;
+}
+
+.linkSite {
+	position: absolute;
+	right: 5%;
+	top:1.5%;
+}
