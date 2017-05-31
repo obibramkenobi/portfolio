@@ -8,3 +8,4 @@ sym.loop+=1;if(sym.loop<=3){sym.play(0);}});
 })("stage");
 //Edge symbol end:'stage'
 })})(AdobeEdge.$,AdobeEdge,"medium-rectangle");
+//test
