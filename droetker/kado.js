@@ -1,7 +1,7 @@
 var anim;
     var animData = {
         container: document.getElementById('container'),
-        renderer: 'canvas',
+        renderer: 'svg',
         loop: false,
         prerender:true,
         autoplay: true,
